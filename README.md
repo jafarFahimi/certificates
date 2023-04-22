@@ -8,6 +8,7 @@ Certificates from courses and organizations I have earned.
 
 - React-Redux: https://www.sololearn.com/certificates/CT-TP8ANL6X
 - Web Development Fundamental: https://www.sololearn.com/certificates/CT-QO7C9KI4
+- Intermediate JavaScript: https://www.sololearn.com/certificates/CC-O168WIDI
 
 ## HackerRank:
 
